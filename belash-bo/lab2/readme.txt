@@ -1,0 +1,1 @@
+the program should count down 20 seconds. If 20 seconds have passed - the program goes into the energy-saving mode.
