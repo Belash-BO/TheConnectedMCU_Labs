@@ -1,1 +1,1 @@
-In this laboratory I learned RTOS, I learned how to work with it. Connected OLED and brought information to it.
+In this calculation and graphical work, the relationship between RTOS and IoT
